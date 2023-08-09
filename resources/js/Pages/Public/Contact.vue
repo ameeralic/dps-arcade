@@ -3,7 +3,7 @@
         <!-- Hero Section  -->
         <section class="bg-white dark:bg-gray-900">
             <div>
-                <div class=" bg-cover bg-center" :style="'background-image: url(`/assets/img/dps-hero.jpg`)'">
+                <div class=" bg-cover bg-center" style="background-image: url('/assets/img/dps-hero.jpg')">
                     <h1
                         class="mb-4 text-white bg-primary-900/50 text-4xl text-center py-10 md:py-32 tracking-tight font-extrabold dark:text-white">
                         Contact</h1>
